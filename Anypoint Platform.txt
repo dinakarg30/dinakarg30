@@ -1,0 +1,8 @@
+One stop platform for APIs and Integrations:
+Design center - design and develop APIs
+Anypoint Exchange - palce where we will be able to share, discover api's and reusable assets
+API Manager - Helps in managing APis by invoking policies
+Runtime Manager - this is the place where the applications are deployed
+Access Management - Configures Access and permissions within organization
+Anypoint Monitoring/Visualizer - Provides monitoring and real-time graphical representation of APIs
+Secret Manager - Place to store and control access to private keys, passwords, certificates, etc. 
